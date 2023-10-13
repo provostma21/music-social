@@ -1,12 +1,5 @@
 import Home from "./Pages/Home";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header"></header>
-      <Home />
-    </div>
-  );
-}
+const App = () => <Home />;
 
 export default App;
