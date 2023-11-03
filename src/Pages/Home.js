@@ -1,5 +1,5 @@
+import "./Home.css";
+
 export default function Home() {
-  return <div className="Home-Container">
-    
-  </div>;
+  return <div className="Home-Container"></div>;
 }
