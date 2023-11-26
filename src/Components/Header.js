@@ -2,7 +2,7 @@ import "./Style/Header.css";
 
 export default function Header() {
   <>
-    <header></header>
+    <header>Pass-The-Aux</header>
   </>;
   return;
 }
